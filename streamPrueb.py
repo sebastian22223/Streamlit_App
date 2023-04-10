@@ -7,7 +7,7 @@ import sympy
 import struct
 import pandas as pd
 from prettytable import PrettyTable
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 st.set_page_config(page_title="Calculadoras", page_icon=":pencil:", layout="wide")
