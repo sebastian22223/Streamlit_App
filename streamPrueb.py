@@ -1,7 +1,7 @@
 import streamlit as st
 from math import *
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import math
 import sympy
 import struct
